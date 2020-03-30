@@ -1,0 +1,8 @@
+{
+  "name": "app",
+  "version": "1",
+  "description": "devops",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts":{"start":"node test.js"}
+}
