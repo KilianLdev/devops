@@ -4,5 +4,10 @@
   "description": "devops",
   "main": "index.js",
   "license": "MIT",
-  "scripts":{"start":"node test.js"}
+  "scripts": {
+    "start": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
